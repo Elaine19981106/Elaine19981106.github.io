@@ -46,5 +46,5 @@
 ## 兴趣爱好
 唱歌、绘画、电子琴、舞蹈
 
-Note: Welcome to my virtual personal space.
+Note: Welcome to my virtual personal space！
 
