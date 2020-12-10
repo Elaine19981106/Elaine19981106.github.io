@@ -2,19 +2,20 @@
 
 [About](index.md)
 
-[English]()
+[Dairy]()
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
-  - - - -
+  * [2020](english/english-formula.md)
+  * [2019](english/Phonetic-Phonics.md)
+- - - -
   * # Advanced
-  * [Stress and Syllables](english/stress.md)
+  * [Poem](english/stress.md)
 
-[Math]()
+[Music]()
 
-  * [Levy Processes](math/levy_processes.md)
+  * [Chinese music](math/levy_processes.md)
+  * [English music](math/levy_processes.md)
 
-[Coding](coding/PythonNote.md)
+[Pictures](coding/PythonNote.md)
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
