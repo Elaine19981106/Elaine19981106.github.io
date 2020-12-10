@@ -1,5 +1,5 @@
 
-## About
+
 ### 个人简介
 
 <img src="image/郑晓璇.jpg" style="zoom:20%;" />
@@ -46,5 +46,5 @@
 ### 兴趣爱好
 唱歌、绘画、电子琴、舞蹈
 
-Note: 这是一个演示文档。
+Note: Welcome to my virtual personal space.
 
