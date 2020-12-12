@@ -4,8 +4,7 @@
 
 [Dairy]()
 
-  * [2020](dairy/english-formula.md)
-  * [2019](dairy/2019.md)
+  * [2020](dairy/2020.md)
 - - - -
   * # Advanced
   * [Kaoyan Dairy](dairy/kaoyandairy.md)
