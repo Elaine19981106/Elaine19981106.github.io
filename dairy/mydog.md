@@ -1,1 +1,0 @@
-<iframe height=498 width=510 src="video/mydog">
