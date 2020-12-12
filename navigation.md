@@ -8,7 +8,7 @@
   * [2019](english/Phonetic-Phonics.md)
 - - - -
   * # Advanced
-  * [Poem](english/stress.md)
+  * [Kaoyan Dairy](dairy/kaoyandairy.md)
 
 [Music]()
 
