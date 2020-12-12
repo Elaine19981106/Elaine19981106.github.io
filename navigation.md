@@ -14,7 +14,7 @@
   * [Chinese music](music/chinesemusic.md)
   * [English music](music/englishmusic.md)
 
-[Pictures](coding/PythonNote.md)
+[Pictures](pictures/pictures.md)
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
