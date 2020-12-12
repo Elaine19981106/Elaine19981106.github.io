@@ -11,8 +11,8 @@
 
 [Music]()
 
-  * [Chinese music](math/levy_processes.md)
-  * [English music](math/levy_processes.md)
+  * [Chinese music](music/chinesemusic.md)
+  * [English music](music/levy_processes.md)
 
 [Pictures](coding/PythonNote.md)
 
