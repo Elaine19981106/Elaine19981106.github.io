@@ -4,8 +4,8 @@
 
 [Dairy]()
 
-  * [2020](english/english-formula.md)
-  * [2019](english/Phonetic-Phonics.md)
+  * [2020](dairy/english-formula.md)
+  * [2019](dairy/mydog.md)
 - - - -
   * # Advanced
   * [Kaoyan Dairy](dairy/kaoyandairy.md)
